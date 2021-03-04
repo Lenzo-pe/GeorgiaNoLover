@@ -6,11 +6,11 @@
 /*   By: lenzo-pe <lenzo-pe@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/03/04 15:22:17 by lenzo-pe          #+#    #+#             */
-/*   Updated: 2021/03/04 15:22:18 by lenzo-pe         ###   ########.fr       */
+/*   Updated: 2021/03/04 15:44:48 by lenzo-pe         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 size_t	ft_strclen(const char *str, const char chr)
 {
